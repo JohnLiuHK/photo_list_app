@@ -13,10 +13,14 @@ The app demonstrates state management with Cubit, API fetching, local caching wi
 
 ## Project Structure
 
+## Project Structure
+
+```plaintext
 lib/
-├─ data/ # API, Hive models, repository implementation
-├─ business/ # Cubit (state management), services
-├─ presentation/ # Screens and UI widgets
+├── data/           # API, Hive models, repository implementation
+├── business/       # Cubit (state management), services
+├── presentation/   # Screens and UI widgets
+```
 
 ## PhotoListScreen
 
