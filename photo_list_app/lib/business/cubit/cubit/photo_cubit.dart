@@ -1,7 +1,7 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 
-import 'package:photo_list_app/data/models/photo_model.dart';
+import 'package:photo_list_app/data/datasource/models/photo_model.dart';
 import 'package:photo_list_app/business/service/photo_service.dart';
 
 part 'photo_state.dart';

@@ -1,7 +1,7 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 
-import 'package:photo_list_app/data/models/photo_model.dart';
+import 'package:photo_list_app/data/datasource/models/photo_model.dart';
 
 class PhotoListItem extends StatelessWidget {
   final VoidCallback onPressed;

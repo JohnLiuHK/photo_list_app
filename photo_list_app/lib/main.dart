@@ -4,8 +4,8 @@ import 'package:hive_flutter/hive_flutter.dart';
 
 import 'package:photo_list_app/business/service/photo_service.dart';
 import 'package:photo_list_app/business/cubit/cubit/photo_cubit.dart';
-import 'package:photo_list_app/data/models/photo_model.dart';
-import 'package:photo_list_app/data/repositories/photo_repo_Impl.dart';
+import 'package:photo_list_app/data/datasource/models/photo_model.dart';
+import 'package:photo_list_app/data/datasource/repositories/photo_repo_Impl.dart';
 import 'package:photo_list_app/presentation/screen/photo_list_screen.dart';
 
 void main() async {

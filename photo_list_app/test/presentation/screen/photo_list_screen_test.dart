@@ -4,7 +4,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 
 import 'package:photo_list_app/business/cubit/cubit/photo_cubit.dart';
-import 'package:photo_list_app/data/models/photo_model.dart';
+import 'package:photo_list_app/data/datasource/models/photo_model.dart';
 import 'package:photo_list_app/presentation/screen/photo_list_screen.dart';
 
 class MockPhotoCubit extends Mock implements PhotoCubit {}

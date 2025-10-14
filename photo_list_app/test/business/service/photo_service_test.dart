@@ -2,7 +2,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 
 import 'package:photo_list_app/business/service/photo_service.dart';
-import 'package:photo_list_app/data/models/photo_model.dart';
+import 'package:photo_list_app/data/datasource/models/photo_model.dart';
 
 class MockPhotoService extends Mock implements PhotoService {}
 

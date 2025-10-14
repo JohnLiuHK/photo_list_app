@@ -1,5 +1,5 @@
-import 'package:photo_list_app/data/models/photo_model.dart';
-import 'package:photo_list_app/data/repositories/photo_repo.dart';
+import 'package:photo_list_app/data/datasource/models/photo_model.dart';
+import 'package:photo_list_app/data/datasource/repositories/photo_repo.dart';
 
 class PhotoService {
   final PhotoRepo repo;
