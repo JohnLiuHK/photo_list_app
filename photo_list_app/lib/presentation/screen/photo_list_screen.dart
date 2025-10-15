@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'package:photo_list_app/business/cubit/cubit/photo_cubit.dart';
+import 'package:photo_list_app/business/cubit/PhotoCubit/photo_cubit.dart';
 import 'package:photo_list_app/presentation/screen/photo_detail_screen.dart';
 import 'package:photo_list_app/presentation/widget/photo_list_item.dart';
 
